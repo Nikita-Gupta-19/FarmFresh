@@ -38,7 +38,7 @@ FarmFresh is a **farmer-to-customer (F2C)** online platform aiming to remove mid
 |----------------|--------------------------------|
 | Frontend       | HTML, CSS, Bootstrap, JavaScript |
 | Backend        | PHP |
-| APIs & Services| Dialogflow, Google Maps, OpenWeather, Video SDK |
+| APIs & Services| Dialogflow, Google Maps, OpenWeather, Youtube Video Integration |
 | Tools Used     | XAMPP, MySQL |
 
 ---
@@ -72,7 +72,7 @@ The system maintains a structured schema of user roles (Farmer, Customer, Patron
 - PHP for backend
 
 ### 3. API Integration
-- **Video SDK**: Virtual farming sessions    
+- **Personalised Youtube Video**: Virtual farming sessions- enable searches just related to farming 
 - **OpenWeather**: Plan farming with daily updates  
 - **Dialogflow**: Chatbot to handle queries instantly  
 
