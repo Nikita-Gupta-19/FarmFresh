@@ -179,5 +179,5 @@ FarmFresh is more than a marketplace—it's a **movement towards fair agricultur
 
 ---
 
-📌 **License**  
+## 📌 **License**  
 This project was developed for educational and social innovation purposes during the Hackathon. Commercial use is prohibited.
