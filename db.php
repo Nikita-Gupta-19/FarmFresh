@@ -2,7 +2,7 @@
 
     $serverName = "localhost";
     $userName = "root";
-    $password = "Nikita@9078";
+    $password = ""; // Write your SQL Password Here
     $dbName = "agroculture";
 
     $conn = mysqli_connect($serverName, $userName, $password, $dbName);
