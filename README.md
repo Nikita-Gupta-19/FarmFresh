@@ -111,7 +111,7 @@ Follow these steps to set up and run **FarmFresh** on your local system using **
 - Open **MySQL Command Line Client** (or use **phpMyAdmin**).
 - Copy the SQL code from
    
-> `C:\xampp/htdocs/FarmFresh/agroculture.sql`
+> `C:\xampp\htdocs\FarmFresh\agroculture.sql`
 
 
 ### 4. 🔐 Configure Database Connection
